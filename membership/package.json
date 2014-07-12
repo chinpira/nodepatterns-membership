@@ -1,0 +1,5 @@
+{
+    "name" : "nodepatterns-membership",
+    "version" : "0.0.1",
+    "main" : "./models/membership.js"
+}
